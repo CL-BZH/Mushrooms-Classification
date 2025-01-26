@@ -99,8 +99,8 @@ The `tools.py` file contains utility functions for data processing, model traini
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/mushroom-classification.git
-   cd mushroom-classification
+   git clone git@github.com:CL-BZH/Mushrooms-Classification.git
+   cd Mushrooms-Classification
    ```
 
 2. **Install Dependencies**:
